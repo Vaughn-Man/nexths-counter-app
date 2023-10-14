@@ -1,0 +1,26 @@
+body{
+  background-image: url(pixel-jeff-divoom.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.divcen {
+  align-items: center;
+  text-align: center;
+  color: azure;
+}
+h1{
+  font-style: italic;
+}
+button{
+  background-color: black;
+  color: azure;
+  padding: 5px;
+  margin-bottom: auto;
+  border-radius: 35%;
+}
+.fruitlist{
+  align-items: center;
+}
+ul{
+  list-style-type: none;
+}
